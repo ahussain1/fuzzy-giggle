@@ -1,9 +1,9 @@
-###How to install 
-- git clone and import it as a maven project
-- The main method and tests can be tested by selecting the configuration and clicking the play button on intellij
+### How to install 
+    - git clone and import it as a maven project
+    - The main method and tests can be tested by selecting the configuration and clicking the play button on intellij
 
-###Dependencies:
-java version "1.8.0_131"
+### Dependencies:
+    - java version "1.8.0_131"
 
 ###Code
     - Wrote a method that parses through String sentence, removes punctutation, and stores each word in an array 
@@ -12,7 +12,7 @@ java version "1.8.0_131"
             same char count, you will have multiple answers. I needed a way to store that data temmporarily 
             before I can convert it to a string 
    
-   - The second method just converts the list from the previous method and presents it as a string
+    - The second method just converts the list from the previous method and presents it as a string
    
 ### Tests
     - Test for the longestWord method
