@@ -5,7 +5,7 @@
 ### Dependencies:
     - java version "1.8.0_131"
 
-###Code
+### Code
     - Wrote a method that parses through String sentence, removes punctutation, and stores each word in an array 
         - The longest word of the array is found and stored into a list along with the character count of the word
             - I used the list datastructure here because in the scenario where there are multiple words with the
