@@ -2,8 +2,7 @@ import java.util.*;
 
 public class LongestWord {
     public static void main(String[] args) {
-        String sentence = "  add" +
-                "  ";
+        String sentence = "My name is Arif, and I live in Cuba.";
         System.out.println(listToString(longestWord(sentence)));
     }
 
